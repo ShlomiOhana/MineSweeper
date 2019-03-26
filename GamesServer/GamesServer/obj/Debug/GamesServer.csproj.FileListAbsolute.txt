@@ -1,0 +1,35 @@
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\GamesServer.dll.config
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\GamesServer.dll
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\GamesServer.pdb
+c:\users\alpha\source\repos\GamesServer\GamesServer\obj\Debug\GamesServer.csproj.CoreCompileInputs.cache
+c:\users\alpha\source\repos\GamesServer\GamesServer\obj\Debug\GamesServer.dll
+c:\users\alpha\source\repos\GamesServer\GamesServer\obj\Debug\GamesServer.pdb
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\EntityFramework.dll
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\EntityFramework.xml
+c:\users\alpha\source\repos\GamesServer\GamesServer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alpha\source\repos\GamesServer\GamesServer\obj\Debug\GamesServer.csprojResolveAssemblyReference.cache
+c:\users\alpha\source\repos\GamesServer\GamesServer\obj\Debug\GamesServer.csproj.CopyComplete
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\GamesServer.dll.config
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\GamesServer.dll
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\GamesServer.pdb
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.dll
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.xml
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.csproj.CoreCompileInputs.cache
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.dll
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.pdb
+C:\Users\yarden\source\repos\MineSweeper\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.csprojResolveAssemblyReference.cache
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\GamesServer.dll.config
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\GamesServer.dll
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\GamesServer.pdb
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.dll
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.xml
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.csprojResolveAssemblyReference.cache
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.csproj.CopyComplete
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.dll
+C:\Users\Alpha\Desktop\Computer science\Third year\Semester B\C#\Project\MineSweeper\GamesServer\GamesServer\obj\Debug\GamesServer.pdb
